@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️ netkit
+# 🛰️ NetWin
 
 ### A fast, single-file network diagnostics toolkit for your terminal
 
